@@ -1,4 +1,73 @@
 {
-  "about": "TODO(dataset): written by inventory-app's scripts/minisites/legacy-minisite.mjs, with every picture of the frame taken from the legacy exhibition.",
-  "files": {}
+  "about": "The frame this website takes from legacy Discover Islamic Art's Artistic Introduction (gai/ISL/), each picture as legacy serves it, byte for byte; the social-media icons are the SVGs its home page wrote into its markup (gai/generic_index.php), each in a file of its own. tests/assets.test.js checks every file against its hash.",
+  "files": {
+    "theme/assets/legacy/bg_fading_left.gif": {
+      "source": "https://islamicart.museumwnf.org/gai/ISL/images/bg_fading_left.gif",
+      "sha256": "6a0b37c67c60d1ef831122aae05eb2c076d80bd3a24f1bea09582c45a4d3daf6"
+    },
+    "theme/assets/legacy/bg_fading_right.gif": {
+      "source": "https://islamicart.museumwnf.org/gai/ISL/images/bg_fading_right.gif",
+      "sha256": "7d95cc090b8b65bd098e5b6ebef43ff9e6a42b4aabec91c8a1e71925de306ffa"
+    },
+    "theme/assets/legacy/ico_item.gif": {
+      "source": "https://islamicart.museumwnf.org/gai/ISL/images/ico_item.gif",
+      "sha256": "0b630172707e2ed687751dd70acb096ef905a3ee56421c650c227520e10030c8"
+    },
+    "theme/assets/legacy/ico_item_selected.gif": {
+      "source": "https://islamicart.museumwnf.org/gai/ISL/images/ico_item_selected.gif",
+      "sha256": "8e4e35eebb1dda3a1495a2dc7a9d1a4611d9118f3f683a269823da701989feb5"
+    },
+    "theme/assets/legacy/home_bg.jpg": {
+      "source": "https://islamicart.museumwnf.org/gai/ISL/images/home_bg.jpg",
+      "sha256": "a50c20516b56467f162e15eef51901d15381b6b5ca6279289fee7db2e5cb81e8"
+    },
+    "theme/assets/legacy/home_bg_ar.jpg": {
+      "source": "https://islamicart.museumwnf.org/gai/ISL/images/home_bg_ar.jpg",
+      "sha256": "a50c20516b56467f162e15eef51901d15381b6b5ca6279289fee7db2e5cb81e8"
+    },
+    "theme/assets/legacy/page_block1_bg.gif": {
+      "source": "https://islamicart.museumwnf.org/gai/ISL/images/page_block1_bg.gif",
+      "sha256": "8927f5954cd5d99ae28cc154e0024a0e51ca0b82dfc81b2a11eefa4e995725d9"
+    },
+    "theme/assets/legacy/logo_ar.gif": {
+      "source": "https://islamicart.museumwnf.org/gai/ISL/images/logo_ar.gif",
+      "sha256": "7659117e1c4e3702fda3f04dfdf4bf7a3fa9ffb78f1e9e7cb8a69ff68864f532"
+    },
+    "theme/assets/legacy/logo_en.gif": {
+      "source": "https://islamicart.museumwnf.org/gai/ISL/images/logo_en.gif",
+      "sha256": "6ca58f8468c31feb8f0cbaea508227c4083655fec3d7ef3b4d240ddb5df69152"
+    },
+    "theme/assets/legacy/logo_es.gif": {
+      "source": "https://islamicart.museumwnf.org/gai/ISL/images/logo_es.gif",
+      "sha256": "ce50942004e121339a0ab2cfab98d588a256e01566ead2094df5c4fe89474e50"
+    },
+    "theme/assets/legacy/logo_fr.gif": {
+      "source": "https://islamicart.museumwnf.org/gai/ISL/images/logo_fr.gif",
+      "sha256": "d1c2ef953072d722126f960f9a2aae8f59f171ddb4cdf90decac3d64f49ea8db"
+    },
+    "theme/assets/legacy/social/square-youtube.svg": {
+      "source": "https://islamicart.museumwnf.org/gai/ISL/ (gai/generic_index.php, #social-media)",
+      "sha256": "c4aa17b2a26b6a187e031ccd5557611f7c115e4f5ce96eca7d35691861c6785a"
+    },
+    "theme/assets/legacy/social/square-x-twitter.svg": {
+      "source": "https://islamicart.museumwnf.org/gai/ISL/ (gai/generic_index.php, #social-media)",
+      "sha256": "733cdf4094781c8422231503238af1a37ac10e51bcaf235e80b379fff9d9873f"
+    },
+    "theme/assets/legacy/social/square-facebook.svg": {
+      "source": "https://islamicart.museumwnf.org/gai/ISL/ (gai/generic_index.php, #social-media)",
+      "sha256": "2235f87178bf32bd46b45959bbfdba23e7e438faf60cd20354a27f11449d47d3"
+    },
+    "theme/assets/legacy/social/square-instagram.svg": {
+      "source": "https://islamicart.museumwnf.org/gai/ISL/ (gai/generic_index.php, #social-media)",
+      "sha256": "b5c378ebbe1e4745f50a008444bfe2b1aa93161ac83a7a22f80803b655e5222c"
+    },
+    "theme/assets/legacy/social/weibo.svg": {
+      "source": "https://islamicart.museumwnf.org/gai/ISL/ (gai/generic_index.php, #social-media)",
+      "sha256": "bb4f6e8a87a64623845119c5d330b959fb9d5d5f14c473af426ccde1157ab986"
+    },
+    "theme/assets/legacy/social/linkedin.svg": {
+      "source": "https://islamicart.museumwnf.org/gai/ISL/ (gai/generic_index.php, #social-media)",
+      "sha256": "91a58687217437bebce4e4aca9ca4d425b3cf5baaa8abe1887ad2eaadf58b531"
+    }
+  }
 }
