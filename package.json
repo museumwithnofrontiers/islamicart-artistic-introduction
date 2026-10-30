@@ -1,5 +1,5 @@
 {
-  "name": "__DATASET__",
+  "name": "islamicart-artistic-introduction",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -13,10 +13,10 @@
   },
   "viewerI18n": {
     "class": "minisite",
-    "namespace": "__SITE_NAMESPACE__"
+    "namespace": "artisticIntroduction"
   },
   "dependencies": {
-    "@museumwnf/__DATASET__-data": "0.0.0-REPLACE-ME",
+    "@museumwnf/islamicart-artistic-introduction-data": "^1.0.1",
     "@museumwnf/viewer-core": "^2.10.0",
     "@museumwnf/viewer-i18n": "^6.5.0",
     "@museumwnf/viewer-layout": "^3.14.0",
