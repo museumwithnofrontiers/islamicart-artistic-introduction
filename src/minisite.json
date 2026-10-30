@@ -1,6 +1,37 @@
 {
-  "legacy": "TODO(dataset): run inventory-app's scripts/minisites/legacy-minisite.mjs",
-  "menuSecondColumnFrom": 7,
-  "curators": [],
-  "maps": 0
+  "legacy": "https://islamicart.museumwnf.org/gai/ISL/",
+  "family": "GAI",
+  "menuSecondColumnFrom": 6,
+  "social": [
+    {
+      "href": "https://www.youtube.com/channel/UC5X2a5jDFyIfTEV5prWNF5Q",
+      "icon": "legacy/social/square-youtube.svg",
+      "aspect": 0.875
+    },
+    {
+      "href": "https://x.com/mwnf_org/",
+      "icon": "legacy/social/square-x-twitter.svg",
+      "aspect": 0.875
+    },
+    {
+      "href": "http://www.facebook.com/pages/Museum-With-No-Frontiers/370544525423",
+      "icon": "legacy/social/square-facebook.svg",
+      "aspect": 0.875
+    },
+    {
+      "href": "https://www.instagram.com/museumwithnofrontiers/",
+      "icon": "legacy/social/square-instagram.svg",
+      "aspect": 0.875
+    },
+    {
+      "href": "https://www.weibo.com/6540990409/profile?topnav=1&wvr=6&is_all=1",
+      "icon": "legacy/social/weibo.svg",
+      "aspect": 1
+    },
+    {
+      "href": "https://www.linkedin.com/company/museum-with-no-frontiers/",
+      "icon": "legacy/social/linkedin.svg",
+      "aspect": 0.875
+    }
+  ]
 }

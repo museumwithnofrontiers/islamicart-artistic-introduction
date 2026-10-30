@@ -12,7 +12,7 @@
     "lint": "eslint ."
   },
   "viewerI18n": {
-    "class": "minisite",
+    "class": "minisiteArtIntro",
     "namespace": "artisticIntroduction"
   },
   "dependencies": {
