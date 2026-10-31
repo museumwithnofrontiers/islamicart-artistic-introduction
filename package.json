@@ -16,7 +16,7 @@
     "namespace": "artisticIntroduction"
   },
   "dependencies": {
-    "@museumwnf/islamicart-artistic-introduction-data": "^1.0.1",
+    "@museumwnf/islamicart-artistic-introduction-data": "^1.0.2",
     "@museumwnf/viewer-core": "^2.10.0",
     "@museumwnf/viewer-i18n": "^6.5.0",
     "@museumwnf/viewer-layout": "^3.16.0",
